@@ -1,0 +1,3 @@
+local Player = game.GetService("Player)
+
+local Key = "Akira"
